@@ -18,12 +18,12 @@
 
 - <img src="./icons/mail.svg"> [Email](773890440@qq.com)
 
-### ⚡ skill
+### ⚡ skill and experienced
 
-- 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
-- 🧚 For now, the Magic I have been mainly working on is Graph Tech.
-- ❓ Ask me anything about Graph/ Graph Databases.
-- ⚡ Check out the toy/sample projects to help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://www.siwei.io/projects/).
+- 🧙🏻 Currently a junior student, I have been studying for a year and a half.
+- 🧚 Enjoys researching open source projects, fascinated by their designs, and learning their ideas.
+- ❓ If you have any learning problems, please discuss them together.
+- ⚡ The biggest dream of universities is to be a contributor to projects like open source.
 
 <br/>
 
