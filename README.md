@@ -1,7 +1,7 @@
 <a href="https://github.com/pulls?q=author%3Asxzz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=code-ManL&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows code-ManL's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=code-ManL&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows code-ManL's GitHub Stats."  width="480px" src="https://github-stats.liuli.lol/api?username=code-ManL&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
