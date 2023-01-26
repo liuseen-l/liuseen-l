@@ -9,9 +9,8 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/code-ManL/count.svg)
 </p>
----
 
 ### 👋 Hi there
 
