@@ -27,6 +27,9 @@
 <br/>
 
 <div align="center">
+<a  target="_blank">
+        <img style="margin: 10px" src="skill/npm.png"  height="25" />
+    </a>
     <a  target="_blank">
         <img style="margin: 10px" src="skill/js.png"  height="25" />
     </a>
@@ -42,6 +45,9 @@
     <a  target="_blank">
         <img style="margin: 10px" src="skill/less.png"  height="25" />
     </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/sass.png"  height="25" />
+    </a>
     <a  target="_blank">
         <img style="margin: 10px" src="skill/webpack.png"  height="25" />
     </a>
@@ -53,6 +59,18 @@
     </a>
     <a  target="_blank">
         <img style="margin: 10px" src="skill/vue.png"  height="25" />
+    </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/vuex.jpg"  height="25" />
+    </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/vitest.jpg"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/jest.jpg"  height="25" />
+    </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/react.jpg"  height="25" />
     </a>
     <a  target="_blank">
         <img style="margin: 10px" src="skill/uni.png"  height="25" />
