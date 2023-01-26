@@ -7,6 +7,12 @@
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 ---
 
 ### 👋 Hi there
@@ -70,5 +76,13 @@
     <a  target="_blank">
         <img style="margin: 10px" src="skill/git.png"  height="25" />
     </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/nodejs.png"  height="25" />
+    </a>
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/express.png"  height="25" />
+    </a>
 </div>
 <br/>
+
+
