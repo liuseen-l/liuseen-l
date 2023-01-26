@@ -7,8 +7,10 @@
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
-Visitor count<br>
-![Visitor Count](https://profile-counter.glitch.me/code-ManL/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/code-ManL/count.svg" />
+</p>
 
 ### 👋 Hi there
 
