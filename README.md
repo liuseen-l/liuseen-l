@@ -5,7 +5,11 @@
   </picture>
 </a>
 
-### 👋 Hi there, I'm code-ManL.
+### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
+
+---
+
+### 👋 Hi there
 
 - 🧑‍🎓 Student
 - 🧑🏻‍💻 Freelancer
@@ -14,23 +18,54 @@
 
 - <img src="./icons/mail.svg"> [Email](773890440@qq.com)
 
-
 ### skill
 
-<div style='display:flex'>
-<img width='50' height='50' title='javaScript' style='margin-left:15px;' src='skill/js.png' />
-<img width='50' height='50' title='typeScript' style='margin-left:15px;' src='skill/ts.png' />
-<img width='50' height='50' title='html5' style='margin-left:15px;' src='skill/h5.png' />
-<img width='50' height='50' title='css3' style='margin-left:15px;' src='skill/css3.png' />
-<img width='70' height='50' title='less' style='margin-left:15px;' src='skill/less.png' />
-<img width='50' height='50' title='webpack' style='margin-left:15px;' src='skill/webpack.png' />
-<img width='50' height='50' title='rollup' style='margin-left:15px;' src='skill/rollup.png' />
-<img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
-<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
-<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
-<img width='40' height='50' title='pinia' style='margin-left:15px;' src='skill/pinia.png' />
-<img width='50' height='50' title='electron' style='margin-left:15px;' src='skill/electron.png' />
-<img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
-<img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
+<br/>
+
+<div align="center">
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/js.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/ts.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/h5.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/css3.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/less.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/webpack.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/rollup.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/vite.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/vue.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/uni.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/pinia.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/electron.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/tailwind.png"  height="25" />
+    </a>
+    <a  target="_blank">
+        <img style="margin: 10px" src="skill/git.png"  height="25" />
+    </a>
 </div>
+<br/>
+
 
