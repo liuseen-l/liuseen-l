@@ -7,8 +7,6 @@
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
@@ -85,4 +83,4 @@
 </div>
 <br/>
 
-
+<a href=#><img src="contributions.svg"></a>
