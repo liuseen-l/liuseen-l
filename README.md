@@ -1,6 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=code-ManL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <p align="center"> 
@@ -61,9 +60,6 @@
         <img style="margin: 10px" src="skill/vue.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/vuex.jpg"  height="25" />
-    </a>
-     <a  target="_blank">
         <img style="margin: 10px" src="skill/vitest.jpg"  height="25" />
     </a>
     <a  target="_blank">
@@ -76,6 +72,9 @@
         <img style="margin: 10px" src="skill/uni.png"  height="25" />
     </a>
     <a  target="_blank">
+     <a  target="_blank">
+        <img style="margin: 10px" src="skill/vuex.jpg"  height="25" />
+    </a>
         <img style="margin: 10px" src="skill/pinia.png"  height="25" />
     </a>
     <a  target="_blank">
