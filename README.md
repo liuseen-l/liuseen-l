@@ -22,7 +22,7 @@
 - 🧙🏻 Currently a junior student, I have been studying for a year and a half.
 - 🧚 Enjoys researching open source projects, fascinated by their designs, and learning their ideas.
 - ❓ If you have any learning problems, please discuss them together.
-- ⚡ The biggest dream of universities is to be a contributor to projects like open source.Especially open source projects related to the VUE ecosystem
+- ⚡ The biggest dream of universities is to be a contributor to projects like open source.Especially open source projects related to the VUE ecosystem.
 
 <br/>
 
