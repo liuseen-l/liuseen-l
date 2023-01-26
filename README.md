@@ -1,9 +1,5 @@
-<a href="https://github.com/pulls?q=author%3Asxzz">
-  <picture>
-    <source  srcset="https://github-stats.liuli.lol/api?username=code-ManL&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows code-ManL's GitHub Stats."  width="480px" src="https://github-stats.liuli.lol/api?username=code-ManL&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-  </picture>
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=code-ManL)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm code-ManL, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
