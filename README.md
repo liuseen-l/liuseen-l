@@ -14,7 +14,7 @@
 
 #### ☎️ Find me
 
-- <div style="display:flex;"><img src="./icons/mail.svg"> 773890440@qq.com</div>
+- <img src="./icons/mail.svg"> 773890440@qq.com
 
 ### ⚡ skill and experienced
 
