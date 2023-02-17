@@ -27,76 +27,76 @@
 
 <div align="center">
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/npm.png"  height="25" />
+        <img style="margin: 10px" src="./skill/npm.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/js.png"  height="25" />
+        <img style="margin: 10px" src="./skill/js.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/ts.png"  height="25" />
+        <img style="margin: 10px" src="./skill/ts.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/h5.png"  height="25" />
+        <img style="margin: 10px" src="./skill/h5.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/css3.png"  height="25" />
+        <img style="margin: 10px" src="./skill/css3.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/less.png"  height="25" />
+        <img style="margin: 10px" src="./skill/less.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/sass.jpg"  height="25" />
+        <img style="margin: 10px" src="./skill/sass.jpg"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/webpack.png"  height="25" />
+        <img style="margin: 10px" src="./skill/webpack.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/rollup.png"  height="25" />
+        <img style="margin: 10px" src="./skill/rollup.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/vite.png"  height="25" />
+        <img style="margin: 10px" src="./skill/vite.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/vue.png"  height="25" />
+        <img style="margin: 10px" src="./skill/vue.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/uni.png"  height="25" />
+        <img style="margin: 10px" src="./skill/uni.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/react.jpg"  height="25" />
+        <img style="margin: 10px" src="./skill/react.jpg"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/vitest.jpg"  height="25" />
+        <img style="margin: 10px" src="./skill/vitest.jpg"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/jest.jpg"  height="25" />
+        <img style="margin: 10px" src="./skill/jest.jpg"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/vuex.jpg"  height="25" />
+        <img style="margin: 10px" src="./skill/vuex.jpg"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/pinia.png"  height="25" />
+        <img style="margin: 10px" src="./skill/pinia.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/electron.png"  height="25" />
+        <img style="margin: 10px" src="./skill/electron.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/tailwind.png"  height="25" />
+        <img style="margin: 10px" src="./skill/tailwind.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/git.png"  height="25" />
+        <img style="margin: 10px" src="./skill/git.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/nodejs.png"  height="25" />
+        <img style="margin: 10px" src="./skill/nodejs.png"  height="25" />
     </a>
      <a  target="_blank">
-        <img style="margin: 10px" src="skill/express.png"  height="25" />
+        <img style="margin: 10px" src="./skill/express.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/linux.png"  height="25" />
+        <img style="margin: 10px" src="./skill/linux.png"  height="25" />
     </a>
     <a  target="_blank">
-        <img style="margin: 10px" src="skill/nginx.png"  height="25" />
+        <img style="margin: 10px" src="./skill/nginx.png"  height="25" />
     </a>
 </div>
 <br/>
