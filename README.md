@@ -104,3 +104,5 @@
 <br/>
 
 <a href=#><img src="contributions.svg"></a>
+
+![Metrics](/github-metrics.svg)
