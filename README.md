@@ -1,10 +1,10 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=code-ManL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liuseen-l&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm LiuSeen, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/code-ManL/count.svg" />
+  <img src="https://profile-counter.glitch.me/linseen-l/count.svg" />
 </p>
 
 ### 👋 Hi there
