@@ -27,7 +27,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
     <a  target="_blank">
         <img style="margin: 10px" src="./skill/npm.png"  height="25" />
     </a>
@@ -101,7 +101,7 @@
         <img style="margin: 10px" src="./skill/nginx.png"  height="25" />
     </a>
 </div>
-<br/>
+<br/> -->
 
 <a href=#><img src="contributions.svg"></a>
 
