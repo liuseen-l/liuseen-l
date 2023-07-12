@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run metrics
-      uses: ./path/to/metrics.yml
+      uses: ./.github/workflows/metrics.yml
   # job2:
   #   name: snake
   #   runs-on: ubuntu-latest
