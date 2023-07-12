@@ -11,12 +11,13 @@ jobs:
 
     - name: Run metrics
       uses: ./.github/workflows/metrics.yml
-  # job2:
-  #   name: snake
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #   - name: Checkout
-  #     uses: actions/checkout@v2
+      
+  job2:
+    name: snake
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
 
-  #   - name: Run snake
-  #     uses: ./.github/workflows/snake.yml
+    - name: Run snake
+      uses: ./.github/workflows/snake.yml
