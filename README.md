@@ -5,7 +5,6 @@
 
 ### 👋 Hi there
 
-- 🧑‍🎓 Student
 - 🧑🏻‍💻 Freelancer
 
 <!--
