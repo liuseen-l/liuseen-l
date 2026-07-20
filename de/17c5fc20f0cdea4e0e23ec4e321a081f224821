@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "de17c5fc20f0cdea4e0e23ec4e321a081f224821",
+  "prompts": {},
+  "humans": {
+    "h_a6faca5f843d49": {
+      "author": "liuseeen-l <773890440@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
